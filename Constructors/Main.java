@@ -15,6 +15,11 @@ public class Main {
         System.out.println(student2.name);
         System.out.println(student2.major);
         System.out.println(student2.gpa);
+
+
+        System.out.println(student3.name);
+        System.out.println(student3.major);
+        System.out.println(student3.gpa);
     }
     
 }
