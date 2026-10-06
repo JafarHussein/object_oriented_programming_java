@@ -13,6 +13,8 @@ public class Main {
 
         student1.showName();
         System.out.println(student1.gpa);
+
+        System.out.println(person1);
     }
     
 }
